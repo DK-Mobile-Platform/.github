@@ -8,6 +8,10 @@
 
 <br/>
 
+## 실행
+
+웹버전 모바일버전은 *lib/dbHelper/user_dbHelper.dart* 폴더의 주석을 확인하세요.
+
 ## 실행영상
 <img src= "https://github.com/DK-Mobile-Platform/Front/assets/94334477/bf964c4b-acfe-4873-92b5-4e771491c369" width= "200" height="400">
 
